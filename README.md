@@ -18,7 +18,7 @@
 
 DrawDB is a robust and user-friendly database entity relationship (DBER) editor right in your browser. Build diagrams with a few clicks, export sql scripts, customize your editor, and more without creating an account. See the full set of features [here](https://drawdb.app/).
 
-# Getting Started
+### Getting Started
 
 ### Local Development
 
